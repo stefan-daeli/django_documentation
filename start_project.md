@@ -21,9 +21,9 @@ pip install Django==6.0.1
 ```
 - New Project
 ```
-django-admin startproject core .
+django-admin startproject config .
 ```
-**core is the name of the project*
+**config is the name of the project*
 - New App
 ```
 python manage.py startapp blog
