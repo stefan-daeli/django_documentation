@@ -28,3 +28,12 @@
   ```
   source venv/bin/activate
   ```
+  Install Django
+  ```
+  pip install Django
+  ```
+  Install Gunicorn
+  ```
+  pip install gunicorn
+  ```
+- Konfigurasi settings.py
