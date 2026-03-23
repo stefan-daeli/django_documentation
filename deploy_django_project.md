@@ -1,8 +1,8 @@
-# Deploy Django Project
+### Deploy Django Project
 - Konfigurasi di dalam dokumentasi ini menggunakan VPS KVM 2 dari hostinger
 - Menggunakan *'Ubuntu 24.04 LTS'*
+### Installasi dan Persiapan
 ---
-## Installasi dan Persiapan
 ### Intallasi
 - Install Python min versi ```3.xx```
 ### Persiapan Proyek
@@ -37,3 +37,4 @@
   pip install gunicorn
   ```
 - Konfigurasi settings.py
+---
